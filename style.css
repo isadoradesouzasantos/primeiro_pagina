@@ -1,6 +1,11 @@
-header{
-    background-color: rgb(41, 48, 46);
+*{
+    margin: 0%;
 }
+header{
+
+    background-color: rgb(211, 222, 231);   
+}
+    
 .logo{
     width: 200px;
 }
@@ -8,11 +13,18 @@ header{
     width: 50px;
 }
 main{
-    background-color: rgb(40, 65, 58);
+    background-color: rgb(218, 232, 243);
 }
 body{
-    background-color: rgb(41, 65, 57);
+    background-color: rgb(218, 227, 235);
 }
 .javascript{
     width: 300px;
+}
+main img{
+    padding: 20px;
+}
+.pesquisa{
+    position:absolute;
+    right:0%
 }
